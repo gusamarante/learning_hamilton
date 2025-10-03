@@ -15,6 +15,3 @@ of verbosity. The advantage is that it is all implemented in plain Python.
 
 This means that a sequence of python functions are interpreted by Hamilton as 
 a DAG ("flowcharts" or "pipelines" or "dataflows" or "workflows" or "ETLs").
-
-
-
